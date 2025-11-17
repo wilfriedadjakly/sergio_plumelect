@@ -52,9 +52,6 @@ p.lead{color:var(--muted);margin:0 0 1.2rem}
 .why_choose_us{display:grid; gap:16px;}
 .why_choose_us{background:linear-gradient(180deg,#f9feff,#ffffff);padding:16px;border-radius:12px; gap:10px; border:1px solid rgba(3,40,60,0.02)}
 
-/* Testimonials
-.testimonials{margin:2rem 0;display:flex;gap:1rem}
-.testimonial{background:var(--card);padding:1rem;border-radius:12px;box-shadow:var(--shadow);flex:1} */
 
 /* Contact */
 .contact-grid{display:grid;grid-template-columns:1fr 360px;gap:1rem}
